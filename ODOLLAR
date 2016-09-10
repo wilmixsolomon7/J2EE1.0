@@ -1,0 +1,46 @@
+
+
+ODOLLAR
+=======
+
+
+
+ODollar   is  used   with   JAVA/J2ee
+
+and  it  consists  of  15  Topics.
+
+for eg) It  is   used  with  EJB, Webservices, JMS
+
+using  JDk1.7, Jdk1.8.
+
+
+SYNTAX:
+=======
+
+
+<ODollar#>
+
+
+
+
+<JPACK>
+
+
+
+<JLOGIC>
+
+
+
+<!  Core java  or   EJB  or  hibernate  or  Webservices  !>
+
+
+
+
+
+
+</JLOGIC>
+
+
+
+
+</ODollar#>

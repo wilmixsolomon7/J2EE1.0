@@ -1,0 +1,23 @@
+
+HIBER
+======
+
+Hiber   is  used   in   ORM  side  with  cloud  computing   with  java/j2ee.
+
+
+SYNTAX:
+========
+
+
+<HIBER>
+
+<H>
+
+<%
+
+
+<! HIBERNATE LOGIC !>
+
+%>
+
+</HIBER>

@@ -5,11 +5,10 @@ LIGHT
 
 
 
-LIGHT   is  used   with   JAVA/J2ee
+LIGHT   is  used   with   JAVA3.0
 
 and  it  consists  of  15  Topics.
 
-for eg) It  is   used  with  Spring, Struts, JSf,hibernate,webservices.
 
 SYNTAX:
 ======
@@ -21,7 +20,7 @@ SYNTAX:
 <%
 
 
-<!  Spring, Struts, JSf,hibernate,webservices !>
+<! JAVA3.0 logic  !>
 
 %>
 

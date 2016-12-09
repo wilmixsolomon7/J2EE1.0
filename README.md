@@ -10,6 +10,6 @@ J2ee1.0   Latest Technologies  are   IDollar,  ODollar,LIGHT,JWEB,and  ,HIBER.
 
 Note:  Here   we  use  java3.0 runtime  platform.
 
-Note:  JDollar  technology  is used.
+Note:  WEB  technology  is used.
 
 And  JAVA/j2ee   is a  normal technology it  will  not  support     cloud  computing.
